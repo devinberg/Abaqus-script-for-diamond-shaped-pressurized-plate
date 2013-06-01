@@ -6,3 +6,4 @@ This code consists of a series of nested FOR loops which iterate through the var
 
 The scripting used here is modeled after the process described by Kevin Maxwell at Texas A&M University: http://goo.gl/wbaiB
 
+An example of the results produced using these scripts and a method for processing the data is shown on Figshare: http://dx.doi.org/10.6084/m9.figshare.710602
